@@ -8,7 +8,7 @@ const Footer = () => {
           <p>@All Right Reserved</p>
         </div>
         <div>
-          <h5>follow us</h5>
+          <h5>Follow Us</h5>
           <div>
             <a href="https://youtube.com" target={"blank"}>
               youtube
