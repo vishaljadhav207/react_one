@@ -10,6 +10,7 @@ nav {
   background-color: $first;
   top: 0%;
   z-index: 10;
+   font: italic 500 1.2rem $text3;//font-style', 'font-variant', 'font-weight', 'font-size', 'line-height', and 'font-family',
 
   > h1 {
     text-transform: uppercase;

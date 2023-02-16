@@ -12,11 +12,12 @@
     flex-direction: column;
     justify-content: center;
     > h1 {
-      font: 700 2rem $text1;
-      color: $third;
+      font: 700 2rem $text2;
+      color: $second;
     }
     > p {
       font: 500 1.2rem $text1;
+      padding: 1rem;
     }
     > h5 {
       font: 300 2rem $text1;
